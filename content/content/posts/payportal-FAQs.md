@@ -1,9 +1,9 @@
 <!---
-//title: "Payportal FAQs"
-//date: 2019-06-18T14:39:21-07:00
-//draft: true
+title: "Payportal FAQs"
+date: 2019-06-18T14:39:21-07:00
+draft: true
 ---> 
-# PayPortal  FAQ's         
+# PayPortal  FAQ's   ![](https://i.ytimg.com/vi/IQRsJvNwMCU/maxresdefault.jpg)       
 ### [**General**](#general)   
 ### [**Payments**](#payments)    
 ### [**Integration**](#integration)    
