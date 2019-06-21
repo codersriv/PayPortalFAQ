@@ -3,7 +3,9 @@ title: "Payportal FAQs"
 date: 2019-06-18T14:39:21-07:00
 draft: true
 ---> 
-# PayPortal  FAQ's   ![](https://i.ytimg.com/vi/IQRsJvNwMCU/maxresdefault.jpg)       
+
+#  PayPortal  FAQ's   ![](https://i.ytimg.com/vi/IQRsJvNwMCU/maxresdefault.jpg)
+Recieved from https://www.payportal.org/ 
 ### [**General**](#general)   
 ### [**Payments**](#payments)    
 ### [**Integration**](#integration)    
