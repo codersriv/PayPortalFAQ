@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQs</title>
+    <link>http://example.org/</link>
+    <description>Recent content on FAQs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/posts/payportal-faqs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/posts/payportal-faqs/</guid>
+      <description>PayPortal FAQ&amp;rsquo;s  Recieved from https://www.payportal.org/
+General Payments Integration Compliance General What is PayPortal? PayPortal is a Software as a Service (SaaS) designed and developed in the heart of Silicon Valley, catering to customers from local businesses to some of the big names in the country. PayPortal is easy to use to set up a customized payment gateway for any business need. The PayPortal “Plug and Play” model enables it to accept one or more payment providers, and integrate with other applications such as Salesforce, Intacct, and Quickbooks in a scalable, reliable, and secure fashion using inbuilt pipelines.</description>
+    </item>
+    
+  </channel>
+</rss>
